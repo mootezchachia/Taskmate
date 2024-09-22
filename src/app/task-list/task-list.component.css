@@ -1,0 +1,24 @@
+.task-list-container {
+    padding: 20px;
+  }
+  
+  table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  button {
+    margin-bottom: 20px;
+    border-radius: 5px;
+  }
+  
+  .task-list-container {
+    flex: 1 1 250px;
+  }

@@ -1,0 +1,17 @@
+mat-nav-list {
+    padding-top: 20px;
+    height: 100vh;
+  }
+  
+  .sidebar-item {
+    padding: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    background-color: #f8f8f8;
+  }
+  
+  .sidebar-item:hover {
+    background-color: #e0e0e0;
+  }

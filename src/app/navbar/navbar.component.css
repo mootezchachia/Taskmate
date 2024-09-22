@@ -1,0 +1,33 @@
+.spacer {
+    flex: 1 1 auto;
+  }
+  
+  .navbar {
+    background-color: #fff;
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+  
+  .navbar-title {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .navbar-actions {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-action {
+    margin-left: 15px;
+    cursor: pointer;
+  }
